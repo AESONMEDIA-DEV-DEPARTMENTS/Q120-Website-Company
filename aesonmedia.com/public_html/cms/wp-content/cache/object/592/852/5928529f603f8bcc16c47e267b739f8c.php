@@ -1,0 +1,1 @@
+»_<?php exit; ?>a:1:{s:7:"content";s:105:"a:4:{s:13:"content_types";a:0:{}s:8:"css_code";s:0:"";s:7:"animate";s:0:"";s:9:"max_width";s:6:"1170px";}";}
